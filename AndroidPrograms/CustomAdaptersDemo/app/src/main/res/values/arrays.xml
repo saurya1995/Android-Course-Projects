@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="courses">
+	<item>Core Java</item>
+	<item>Advance Java</item>
+	<item>J2EE</item>
+	<item>C#.Net</item>
+	<item>PHP</item>
+	<item>Android</item>
+</string-array>
+<string-array name="states">
+	<item>Assam</item>
+	<item>Arunachal Pradesh</item>
+	<item>Andhra Pradesh</item>
+	<item>Bihar</item>
+	<item>Delhi</item>
+	<item>Gujrat</item>
+	<item>Goa</item>
+	<item>Himachal Pradesh</item>
+	<item>Haryana</item>
+	<item>Jammu and Kashmir</item>
+	<item>Kerala</item>
+	<item>Karnataka</item>
+	<item>Madhya Pradesh</item>
+	<item>Maharashtra</item>
+	<item>Manipur</item>
+</string-array>
+<string-array name="descriptions">
+	<item>This is a big state. People celebrate Holi and Deepawali. People are very good.</item>
+	<item>This is a big state. People celebrate Holi and Deepawali. People are very good.</item>
+	<item>This is a big state. People celebrate Holi and Deepawali. People are very good.</item>
+	<item>This is a big state. People celebrate Holi and Deepawali. People are very good.</item>
+	<item>This is a big state. People celebrate Holi and Deepawali. People are very good.</item>
+	<item>This is a big state. People celebrate Holi and Deepawali. People are very good.</item>
+	<item>This is a big state. People celebrate Holi and Deepawali. People are very good.</item>
+	<item>This is a big state. People celebrate Holi and Deepawali. People are very good.</item>
+	<item>This is a big state. People celebrate Holi and Deepawali. People are very good.</item>
+	<item>This is a big state. People celebrate Holi and Deepawali. People are very good.</item>
+	<item>This is a big state. People celebrate Holi and Deepawali. People are very good.</item>
+	<item>This is a big state. People celebrate Holi and Deepawali. People are very good.</item>
+	<item>This is a big state. People celebrate Holi and Deepawali. People are very good.</item>
+	<item>This is a big state. People celebrate Holi and Deepawali. People are very good.</item>
+	<item>This is a big state. People celebrate Holi and Deepawali. People are very good.</item>
+</string-array>    
+</resources>

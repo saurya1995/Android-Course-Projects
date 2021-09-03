@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.unisoft.fragmentsdemo" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".StaticFragmentActivity"
+            android:label="@string/title_activity_static_fragment" >
+        </activity>
+        <activity
+            android:name=".DynamicFragmentActivity"
+            android:label="@string/title_activity_dynamic_fragment" >
+        </activity>
+        <activity
+            android:name=".FragmentLifeCycleActivity"
+            android:label="@string/title_activity_fragment_life_cycle" >
+        </activity>
+        <activity
+            android:name=".FragmentCommunicationActivity"
+            android:label="@string/title_activity_fragment_communication" >
+        </activity>
+        <activity
+            android:name=".MasterDetailActivity"
+            android:label="@string/title_activity_master_detail" >
+        </activity>
+        <activity
+            android:name=".DetailsActivity"
+            android:label="@string/title_activity_details" >
+        </activity>
+    </application>
+
+</manifest>

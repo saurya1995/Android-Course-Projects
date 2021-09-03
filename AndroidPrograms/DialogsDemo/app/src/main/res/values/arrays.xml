@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="topics">
+        <item>Abstraction</item>
+        <item>Encapsulation</item>
+        <item>Inheritance</item>
+        <item>Plymorphism</item>
+        <item>Exceptions</item>
+        <item>Generics</item>
+    </string-array>
+</resources>

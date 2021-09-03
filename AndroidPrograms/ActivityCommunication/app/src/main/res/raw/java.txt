@@ -1,0 +1,8 @@
+1. OOP
+2. Exception Handling
+3. Data Structures
+4. SWING
+5. JDBC
+6. Servlets and JSP
+7. EJB
+8. Web Services

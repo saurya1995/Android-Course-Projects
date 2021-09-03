@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FragmentsDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_static_fragment">StaticFragmentActivity</string>
+    <string name="title_activity_dynamic_fragment">DynamicFragmentActivity</string>
+    <string name="title_activity_fragment_life_cycle">FragmentLifeCycleActivity</string>
+    <string name="title_activity_fragment_communication">FragmentCommunicationActivity</string>
+    <string name="title_activity_master_detail">MasterDetailActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+</resources>

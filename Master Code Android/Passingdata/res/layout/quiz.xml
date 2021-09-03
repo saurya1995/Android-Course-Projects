@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvdisplay"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:text="TextView" 
+        android:textSize="20dp"
+        />
+    <TextView
+        android:id="@+id/tvdisplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Please select the number of questions.." />
+ <RadioGroup 
+        android:id="@+id/rgoptions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+     >
+    <RadioButton
+        android:id="@+id/rb1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Five Questions" 
+        android:checked="true"/>
+
+    <RadioButton
+        android:id="@+id/radioButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ten Questions" />
+
+    <RadioButton
+        android:id="@+id/radioButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fifteen Questions" />
+</RadioGroup>
+</LinearLayout>

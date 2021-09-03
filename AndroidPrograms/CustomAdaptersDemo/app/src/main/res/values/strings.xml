@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomAdaptersDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_layout_inflater">LayoutInflaterActivity</string>
+    <string name="title_activity_list_activity_one">ListActivityOne</string>
+    <string name="title_activity_spinner_activity_one">SpinnerActivityOne</string>
+    <string name="title_activity_grid_activity_one">GridActivityOne</string>
+</resources>

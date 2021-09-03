@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+      >
+
+    <EditText
+        android:id="@+id/ettext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:hint="Enter the Text" >
+    </EditText>
+
+    <Button
+        android:id="@+id/bspeak"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Speak Up" 
+        android:layout_gravity="center"/>
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="100"
+        >
+    <Button
+        android:id="@+id/bspeedplus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Speed Plus" 
+        android:layout_weight="50"
+       />
+    <Button
+        android:id="@+id/bspeedminus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Speed Minus" 
+        android:layout_weight="50"
+        />
+    </LinearLayout>
+
+</LinearLayout>

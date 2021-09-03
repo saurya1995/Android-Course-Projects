@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="topics">
+        <item>Abstraction</item>
+        <item>Encapsulation</item>
+        <item>Inheritance</item>
+        <item>Plymorphism</item>
+        <item>Exceptions</item>
+        <item>Generics</item>
+    </string-array>
+    <string-array name="description">
+        <item>Abstraction is a process by which concepts are derived from the usage and classification of literal (real or concrete) concepts, first principles, or other methods. An abstraction is the product of this process—a concept that acts as a super-categorical noun for all subordinate concepts, and connects any related concepts as a group, field, or category.</item>
+        <item>A language mechanism for restricting access to some of the objects components.A language construct that facilitates the bundling of data with the methods (or other functions) operating on that data.</item>
+        <item>In object-oriented programming (OOP), inheritance is when an object or class is based on another object or class, using the same implementation; it is a mechanism for code reuse. The relationships of objects or classes through inheritance give rise to a hierarchy.</item>
+        <item>If a function denotes different and potentially heterogeneous implementations depending on a limited range of individually specified types and combinations, it is called ad hoc polymorphism. Ad hoc polymorphism is supported in many languages using function overloading</item>
+        <item>Exception handling is the process of responding to the occurrence, during computation, of exceptions – anomalous or exceptional events requiring special processing – often changing the normal flow of program execution.</item>
+        <item>Generics are a facility of generic programming that were added to the Java programming language in 2004 within J2SE 5.0. They allow a type or method to operate on objects of various types while providing compile-time type safety.</item>
+    </string-array>    
+</resources>
